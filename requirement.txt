@@ -25,7 +25,6 @@ charset-normalizer==3.4.1
 click==8.0.3
 colorama==0.4.4
 comm==0.2.2
-command-not-found==0.3
 cryptography==3.4.8
 cupshelpers==1.0
 cycler==0.11.0
